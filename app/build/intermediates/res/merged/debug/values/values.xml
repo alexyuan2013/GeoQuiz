@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/AndroidProjects/GeoQuiz/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/AndroidProjects/GeoQuiz/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">设置</string>
+    <string name="app_name">地理测试</string>
+    <string name="cheat_button">直接看答案</string>
+    <string name="correct_toast">正确！</string>
+    <string name="false_button">假的</string>
+    <string name="incorrect_toast">错误！</string>
+    <string name="judgment_toast">作弊是不对的，少年。。。</string>
+    <string name="next_button">下一题</string>
+    <string name="prev_button">上一题</string>
+    <string name="question_asia">印度的耕地面积比中国的耕地面积还大。</string>
+    <string name="question_baikal">贝加尔湖是亚洲也是世界上最古老的一个湖泊。</string>
+    <string name="question_capital">圣保罗是巴西首都。</string>
+    <string name="question_manas">玛纳斯河向南注入玛纳斯湖。</string>
+    <string name="question_mideast">伊拉克位于中东地区，盛产石油。</string>
+    <string name="question_ocean">太平洋比大西洋大多了。</string>
+    <string name="show_answer_button">少废话，给我正确答案</string>
+    <string name="true_button">真的</string>
+    <string name="warning_text">少年，确定要作弊？不再仔细想想了？</string>
+    <!-- From: file:/E:/AndroidProjects/GeoQuiz/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
